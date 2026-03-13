@@ -5,7 +5,7 @@
     <link>http://localhost:1313/</link>
       <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description></description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_da05098ef60dc2e7.png</url>
       <title></title>
@@ -183,6 +183,40 @@
 &lt;/p&gt;
 &lt;h2 id=&#34;что-дальше&#34;&gt;Что дальше?&lt;/h2&gt;
 &lt;h2 id=&#34;планирую-изучить-как-добавлять-новые-разделы-и-настраивать-тему&#34;&gt;Планирую изучить, как добавлять новые разделы и настраивать тему.&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Обо мне</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;figure class=&#34;rounded-circle mx-auto d-block&#34;&gt;&lt;img src=&#34;http://localhost:1313/media/avatar.jpg&#34;
+    alt=&#34;Моё фото&#34; width=&#34;200px&#34;&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;ксения-борисова&#34;&gt;Ксения Борисова&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Студент&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Увлекаюсь программированием, изучаю Hugo и GitHub Pages.&lt;/p&gt;
+&lt;h3 id=&#34;интересы&#34;&gt;Интересы&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Программирование&lt;/li&gt;
+&lt;li&gt;Веб-разработка&lt;/li&gt;
+&lt;li&gt;Git и CI/CD&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;образование&#34;&gt;Образование&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Бизнес-информатика&lt;/strong&gt;
+Российский Университет Дружбы Народов, 2026&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;мои-посты&#34;&gt;Мои посты&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -1809,7 +1843,7 @@ This Hugging Face dataset is a mirror. For the …
 
 
 
-&lt;div id=&#34;chart-163547982&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-219564738&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     async function fetchChartJSON() {
@@ -1827,7 +1861,7 @@ This Hugging Face dataset is a mirror. For the …
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-163547982&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-219564738&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
