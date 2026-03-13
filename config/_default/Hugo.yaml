@@ -1,2 +1,24 @@
-nano Hugo.yaml
-
+baseURL: https://kmborisova.github.io/
+title: Ксения Борисова
+theme: hugo-academic
+defaultContentLanguage: ru
+sectionPagesMenu: main
+params:
+  description: Сайт-портфолио Ксении Борисовой
+  author: Ксения Борисова
+  avatar: avatar.jpg
+  social:
+    - icon: github
+      icon_pack: fab
+      link: https://github.com/kmborisova
+menu:
+  main:
+    - name: Главная
+      url: /
+      weight: 10
+    - name: Посты
+      url: /blog
+      weight: 20
+    - name: Проекты
+      url: /projects
+      weight: 30

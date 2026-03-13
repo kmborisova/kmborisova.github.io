@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Личное | </title>
+    <link>http://localhost:1313/tags/%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D0%B5/</link>
+      <atom:link href="http://localhost:1313/tags/%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D0%B5/index.xml" rel="self" type="application/rss+xml" />
+    <description>Личное</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_da05098ef60dc2e7.png</url>
+      <title>Личное</title>
+      <link>http://localhost:1313/tags/%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D0%B5/</link>
+    </image>
+    
+    <item>
+      <title>Моя неделя: создаю сайт на Hugo</title>
+      <link>http://localhost:1313/blog/nedelya-1/</link>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/nedelya-1/</guid>
+      <description>&lt;p&gt;На этой неделе я сделала много нового:&lt;/p&gt;
+&lt;h2 id=&#34;установка-hugo&#34;&gt;Установка Hugo&lt;/h2&gt;
+&lt;p&gt;Установила Hugo на Fedora через ручную установку. Поначалу были проблемы с путями, но всё решилось.&lt;/p&gt;
+&lt;h2 id=&#34;git-и-github&#34;&gt;Git и GitHub&lt;/h2&gt;
+&lt;p&gt;Разобралась с системой контроля версий. Теперь понимаю, зачем нужны коммиты и как работать с ветками.&lt;/p&gt;
+&lt;h2 id=&#34;github-pages&#34;&gt;GitHub Pages&lt;/h2&gt;
+&lt;p&gt;Настроила автоматическую публикацию сайта. Теперь мой сайт доступен по адресу 
+&lt;/p&gt;
+&lt;h2 id=&#34;что-дальше&#34;&gt;Что дальше?&lt;/h2&gt;
+&lt;h2 id=&#34;планирую-изучить-как-добавлять-новые-разделы-и-настраивать-тему&#34;&gt;Планирую изучить, как добавлять новые разделы и настраивать тему.&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
